@@ -1,4 +1,4 @@
-<h1 align="center">RocketNews</h1>
+<h1 align="center">RobbieTube</h1>
 <p align="center">Projeto feito para aperfeiçoar conhecimentos de programação web com uso de algumas tecnologias.</p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 <h3 id="pre-requisitos">Pré-requisitos</h3>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [node.js](https://nodejs.org/en/) e instalar o [Sass](https://sass-lang.com/).
+[Git](https://git-scm.com).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 <h3 id="objetivo">🎯 Objetivos</h3>
 
 - Adiquirir proficiência nas tecnologias praticadas.
-- Praticar o uso de Sass com uso de variáveis, mixin, imports e organização em várias paginas para melhor visualização do código para futura manutenção
-- Uso de ferramentas importantes no CSS como flexbox e form.
+- Uso de ferramentas importantes no CSS como flexbox, Grid e iframe.
+- Com  o uso de media queries dar mais responsividade ao projeto, para diversos dispositivos.
 
 <h3 id="tecnologias">🛠 Tecnologias</h3>
 
@@ -29,7 +29,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Sass](https://sass-lang.com/)
 
 <h3 id="autor">Autor</h3>
 ---
